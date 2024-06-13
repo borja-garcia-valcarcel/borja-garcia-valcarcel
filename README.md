@@ -11,9 +11,10 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 ### Lenguajes de Programación
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks y Librerías
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
 [<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="45">](https://ontimize.github.io/docs/v3/)
 
@@ -32,10 +33,9 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
  
 ## 📈 Estadísticas de GitHub
 
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=borja-garcia-valcarcel&show_icons=true&theme=radical&count_private=true)
 
-![Tus estadísticas de GitHub](https://github-readme-stats-borja-garcia-valcarcel.vercel.app/api?username=borja-garcia-valcarcel&show_icons=true&theme=radical&count_private=true)
-
-![Tus estadísticas de GitHub 2](https://github-readme-stats-borja-garcia-valcarcel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula)
+![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula)
 
 
 

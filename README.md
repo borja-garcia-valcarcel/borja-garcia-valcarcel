@@ -9,7 +9,7 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 ## 🚀 Habilidades
  
 - **Lenguajes de Programación**:
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&target="_blank")](https://docs.oracle.com/en/java/)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&target=blank)](https://docs.oracle.com/en/java/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Frameworks y Librerías**:
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)

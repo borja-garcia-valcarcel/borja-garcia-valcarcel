@@ -10,7 +10,6 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
  
 - **Lenguajes de Programación**:
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
- 
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 - **Frameworks y Librerías**:
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,15 +27,17 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
  
 ## 📈 Estadísticas de GitHub
  
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=smartriob1&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=borja-garcia-valcarcel1&show_icons=true&theme=radical)
+
 ![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula)
 
  
 ## 📫 Cómo contactarme
 
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/borja-garcia-valcarcel)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank)](mailto:guess1bot1@gmail.com)
+ <div> 
+  <a href="https://www.linkedin.com/in/borja-valcarcel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: guess1bot1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
  
 ## 🎨 Intereses

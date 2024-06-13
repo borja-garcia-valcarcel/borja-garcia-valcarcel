@@ -34,10 +34,6 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
  
 ## 📫 Cómo contactarme
 
-<div> 
-  <a href="https://www.linkedin.com/in/borja-valcarcel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto: guess1bot1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/borja-garcia-valcarcel)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank)](mailto:guess1bot1@gmail.com)

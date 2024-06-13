@@ -19,7 +19,8 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 ### Frameworks y Librerías
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/docs)
-[<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="45">](https://ontimize.github.io/docs/v3/)
+[<img src="https://www.ontimize.com/xwiki/bin/download/Ontimize+Training/WebHome/ontimize-logo.png" alt="Ontimize" height="38" width="105">](https://ontimize.github.io/docs/v3/)
+
 
 ### Bases de Datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)

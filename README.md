@@ -35,7 +35,7 @@ Actualmente me encuentro finalizando el Ciclo Superior de Desarrollo de Aplicaci
  <div>
   <a href="https://github.com/borja-garcia-valcarcel">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=borja-garcia-valcarcel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  
 </div>
  
 ## 📫 Cómo contactarme

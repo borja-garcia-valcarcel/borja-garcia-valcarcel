@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Fullstack Software Development
 - 💞️ I’m looking to collaborate on new projects
-- 🍕 You can reach me at guess1bot1@gmail.com
+
 
 
 <div> 

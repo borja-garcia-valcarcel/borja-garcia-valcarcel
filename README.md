@@ -11,7 +11,7 @@
  </br>
 </br>
  
-  ![snake animation](https://github.com/borja-garcia-valcarcel/borja-garcia-valcarcel/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/borja-garcia-valcarcel/borja-garcia-valcarcel/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 

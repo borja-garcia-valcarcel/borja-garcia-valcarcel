@@ -46,7 +46,6 @@ Graduado en Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma. Ademá
 ## 📈 Estadísticas de GitHub
 
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=borja-garcia-valcarcel&show_icons=true&theme=radical&count_private=true)
-
 ![Tus estadísticas de GitHub 2](https://github-readme-stats.vercel.app/api/top-langs/?username=borja-garcia-valcarcel&layout=compact&langs_count=16&theme=dracula)
 
 
